@@ -155,7 +155,7 @@ const fizzbuzz = (arr) => {
       returnFizzBuzz.push(num);
     }
   });
-  return output;
+  return returnFizzBuzz;
 };
 
 /* ------------------------------------------------------------------------------------------------
