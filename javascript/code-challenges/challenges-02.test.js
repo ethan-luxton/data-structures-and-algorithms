@@ -12,6 +12,7 @@ const raisedToTheThird = (arr) => {
   let newArr = [];
   arr.forEach((num) => {newArr.push(Math.pow(num, 3))})
   return newArr;
+  
 };
 
 /* ------------------------------------------------------------------------------------------------
